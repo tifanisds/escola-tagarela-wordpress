@@ -87,70 +87,8 @@ get_header();
 </section>
 
 <!-- Formulário Aula Experimental -->
-<section id="formulario" class="bg-blue-900 text-white py-20 px-6 md:px-12 lg:px-24">
-  <div class="max-w-3xl mx-auto bg-white text-gray-800 rounded-2xl shadow-xl p-8 md:p-12">
-    <h2 class="text-3xl md:text-4xl font-bold text-center text-blue-800 mb-8">
-      Agende uma Aula Experimental
-    </h2>
+<?php echo do_shortcode('[contact-form-7 id="a632f67" title="Formulário de matricula"]'); ?>
 
-    <form action="#" method="POST" class="space-y-6">
-
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-        <div>
-          <label for="nome" class="block text-sm font-semibold mb-2">Nome</label>
-          <input type="text" id="nome" name="nome" required
-                 class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-600 focus:outline-none">
-        </div>
-        <div>
-          <label for="sobrenome" class="block text-sm font-semibold mb-2">Sobrenome</label>
-          <input type="text" id="sobrenome" name="sobrenome" required
-                 class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-600 focus:outline-none">
-        </div>
-      </div>
-
-      <div>
-        <label for="email" class="block text-sm font-semibold mb-2">E-mail</label>
-        <input type="email" id="email" name="email" required
-               class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-600 focus:outline-none">
-      </div>
-
-      <div>
-        <label for="telefone" class="block text-sm font-semibold mb-2">Telefone</label>
-        <input type="tel" id="telefone" name="telefone"
-               class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-600 focus:outline-none">
-      </div>
-
-      <div>
-        <label for="idade" class="block text-sm font-semibold mb-2">Faixa de Idade</label>
-        <select id="idade" name="idade" required
-                class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-600 focus:outline-none">
-          <option value="">Selecione</option>
-          <option value="13-14">13–14 anos</option>
-          <option value="15-16">15–16 anos</option>
-          <option value="17">17 anos</option>
-        </select>
-      </div>
-
-      <div>
-        <label for="unidade" class="block text-sm font-semibold mb-2">Unidade de Ensino Desejada</label>
-        <select id="unidade" name="unidade" required
-                class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-600 focus:outline-none">
-          <option value="">Selecione</option>
-          <option value="salvador">Salvador</option>
-          <option value="lauro">Lauro de Freitas</option>
-          <option value="feira">Feira de Santana</option>
-        </select>
-      </div>
-
-      <div class="text-center">
-        <button type="submit"
-                class="bg-red-600 text-white px-8 py-3 rounded-xl text-lg shadow hover:bg-red-700 transition-colors duration-300 ease-in-out">
-          Enviar Inscrição
-        </button>
-      </div>
-    </form>
-  </div>
-</section>
 
 <!-- Chamada Final -->
 <section class="bg-white py-16">
