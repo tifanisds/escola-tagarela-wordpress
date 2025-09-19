@@ -4,7 +4,7 @@ get_header();
 ?>
 
 <!-- Hero Quem Somos -->
-<section class="relative mt-20">
+<section class="relative">
     <div class="w-full">
         <img src="<?php echo get_template_directory_uri(); ?>/assets/quem-somos-hero.png" alt="">
     </div>
@@ -29,17 +29,17 @@ get_header();
 <!-- Valores -->
 <section class="py-20 px-6 bg-blue-900">
     <div class="max-w-7xl mx-auto text-center">
-        <h2 class="text-3xl font-bold text-blue-800 mb-12">Nossos Valores</h2>
+        <h2 class="text-3xl font-bold text-white mb-12">Nossos Valores</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
-            <div class="bg-blue-100 rounded-2xl p-8 shadow hover:shadow-xl transition">
+            <div class="bg-blue-100 rounded-2xl p-8 shadow hover:shadow-xl transition transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-2xl">
                 <h3 class="text-xl font-semibold text-red-600 mb-3">Excelência</h3>
                 <p class="text-gray-700">Compromisso em oferecer sempre o melhor em ensino de inglês.</p>
             </div>
-            <div class="bg-blue-100 rounded-2xl p-8 shadow hover:shadow-xl transition">
+            <div class="bg-blue-100 rounded-2xl p-8 shadow hover:shadow-xl transition transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-2xl">
                 <h3 class="text-xl font-semibold text-red-600 mb-3">Inovação</h3>
                 <p class="text-gray-700">Métodos modernos, tecnologia e criatividade no aprendizado.</p>
             </div>
-            <div class="bg-blue-100 rounded-2xl p-8 shadow hover:shadow-xl transition">
+            <div class="bg-blue-100 rounded-2xl p-8 shadow hover:shadow-xl transition transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-2xl">
                 <h3 class="text-xl font-semibold text-red-600 mb-3">Acolhimento</h3>
                 <p class="text-gray-700">Ambiente seguro, amigável e motivador para todos os alunos.</p>
             </div>
