@@ -48,24 +48,25 @@ get_header();
 </section>
 
 <!-- Equipe -->
-<section class="bg-blue-50 py-20 px-6">
+<section class="bg-white py-20 px-6">
     <div class="max-w-7xl mx-auto text-center">
-        <h2 class="text-3xl font-bold text-blue-800 mb-12">Nossa Equipe</h2>
+        <h2 class="text-3xl font-bold text-blue-900 mb-2">Nossa Equipe</h2>
+        <h3 class="text-xl font-bold text-blue-800 mb-12">Professores nativos dedicados ao aprendizado de todos os níveis</h3>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
-            <div class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition">
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/professor1.jpg" alt="Professor 1" class="mx-auto rounded-full mb-4 w-32 h-32 object-cover">
+            <div class="bg-white rounded-2xl shadow-xl p-8 hover:shadow-xl transition transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-2xl">
+                <img src="<?php echo get_template_directory_uri(); ?>/assets/professor1.png" alt="Professor 1" class="mx-auto rounded-full mb-4 w-32 h-32 object-cover">
                 <h3 class="text-xl font-semibold text-red-600 mb-2">Marina Santos</h3>
-                <p class="text-gray-700">Diretora Pedagógica</p>
+                <p class="text-gray-700">Professora da turma infantil</p>
             </div>
-            <div class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition">
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/professor2.jpg" alt="Professor 2" class="mx-auto rounded-full mb-4 w-32 h-32 object-cover">
+            <div class="bg-white rounded-2xl shadow-xl p-8 hover:shadow-xl transition transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-2xl">
+                <img src="<?php echo get_template_directory_uri(); ?>/assets/professor2.png" alt="Professor 2" class="mx-auto rounded-full mb-4 w-32 h-32 object-cover">
                 <h3 class="text-xl font-semibold text-red-600 mb-2">João Barreto</h3>
-                <p class="text-gray-700">Coordenador de Inglês</p>
+                <p class="text-gray-700">Professor da turma dos adolescentes</p>
             </div>
-            <div class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition">
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/professor3.jpg" alt="Professor 3" class="mx-auto rounded-full mb-4 w-32 h-32 object-cover">
+            <div class="bg-white rounded-2xl shadow-xl p-8 hover:shadow-xl transition transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-2xl">
+                <img src="<?php echo get_template_directory_uri(); ?>/assets/professor3.png" alt="Professor 3" class="mx-auto rounded-full mb-4 w-32 h-32 object-cover">
                 <h3 class="text-xl font-semibold text-red-600 mb-2">Ísis Amaral</h3>
-                <p class="text-gray-700">Professora Nativa</p>
+                <p class="text-gray-700">Professora da turma dos adultos</p>
             </div>
         </div>
     </div>
