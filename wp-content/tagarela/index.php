@@ -14,7 +14,7 @@
             <p class="text-lg md:text-xl text-gray-200 mb-8 font-semibold">
                 Aulas presenciais em Salvador, Lauro de Freitas e Feira de Santana.
             </p>
-            <a href="#formulario" class="bg-red-600 text-white px-8 py-3 rounded-xl text-lg shadow hover:bg-red-700 transition-colors duration-300 ease-in-out">
+            <a href="aula-experimental" class="bg-red-600 text-white px-8 py-3 rounded-xl text-lg shadow hover:bg-red-700 transition-colors duration-300 ease-in-out">
                 Quero me inscrever
             </a>
         </div>
