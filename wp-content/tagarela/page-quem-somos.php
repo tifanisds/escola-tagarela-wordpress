@@ -32,16 +32,16 @@ get_header();
         <h2 class="text-3xl font-bold text-white mb-12">Nossos Valores</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
             <div class="bg-blue-100 rounded-2xl p-8 shadow hover:shadow-xl transition transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-2xl">
-                <h3 class="text-xl font-semibold text-red-600 mb-3">Excelência</h3>
-                <p class="text-gray-700">Compromisso em oferecer sempre o melhor em ensino de inglês.</p>
+                <h3 class="text-2xl font-semibold text-red-600 mb-3">Excelência</h3>
+                <p class="text-gray-700 text-lg">Compromisso em oferecer sempre o melhor em ensino de inglês.</p>
             </div>
             <div class="bg-blue-100 rounded-2xl p-8 shadow hover:shadow-xl transition transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-2xl">
-                <h3 class="text-xl font-semibold text-red-600 mb-3">Inovação</h3>
-                <p class="text-gray-700">Métodos modernos, tecnologia e criatividade no aprendizado.</p>
+                <h3 class="text-2xl font-semibold text-red-600 mb-3">Inovação</h3>
+                <p class="text-gray-700 text-lg">Métodos modernos, tecnologia e criatividade no aprendizado.</p>
             </div>
             <div class="bg-blue-100 rounded-2xl p-8 shadow hover:shadow-xl transition transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-2xl">
-                <h3 class="text-xl font-semibold text-red-600 mb-3">Acolhimento</h3>
-                <p class="text-gray-700">Ambiente seguro, amigável e motivador para todos os alunos.</p>
+                <h3 class="text-2xl font-semibold text-red-600 mb-3">Acolhimento</h3>
+                <p class="text-gray-700 text-lg">Ambiente seguro, amigável e motivador para todos os alunos.</p>
             </div>
         </div>
     </div>
@@ -54,19 +54,19 @@ get_header();
         <h3 class="text-xl font-bold text-blue-800 mb-12">Professores nativos dedicados ao aprendizado de todos os níveis</h3>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
             <div class="bg-white rounded-2xl shadow-xl p-8 hover:shadow-xl transition transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-2xl">
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/professor1.png" alt="Professor 1" class="mx-auto rounded-full mb-4 w-32 h-32 object-cover">
-                <h3 class="text-xl font-semibold text-red-600 mb-2">Marina Santos</h3>
-                <p class="text-gray-700">Professora da turma infantil</p>
+                <img src="<?php echo get_template_directory_uri(); ?>/assets/professor1.png" alt="Marina Santos professora da turma infantil" class="mx-auto rounded-full mb-4 w-32 h-32 object-cover">
+                <h3 class="text-2xl font-semibold text-red-600 mb-2">Marina Santos</h3>
+                <p class="text-gray-700 text-lg">Professora da turma infantil</p>
             </div>
             <div class="bg-white rounded-2xl shadow-xl p-8 hover:shadow-xl transition transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-2xl">
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/professor2.png" alt="Professor 2" class="mx-auto rounded-full mb-4 w-32 h-32 object-cover">
-                <h3 class="text-xl font-semibold text-red-600 mb-2">João Barreto</h3>
-                <p class="text-gray-700">Professor da turma dos adolescentes</p>
+                <img src="<?php echo get_template_directory_uri(); ?>/assets/professor2.png" alt="João Barreto professor da turma de adolescentes" class="mx-auto rounded-full mb-4 w-32 h-32 object-cover">
+                <h3 class="text-2xl font-semibold text-red-600 mb-2">João Barreto</h3>
+                <p class="text-gray-700 text-lg">Professor da turma dos adolescentes</p>
             </div>
             <div class="bg-white rounded-2xl shadow-xl p-8 hover:shadow-xl transition transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-2xl">
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/professor3.png" alt="Professor 3" class="mx-auto rounded-full mb-4 w-32 h-32 object-cover">
-                <h3 class="text-xl font-semibold text-red-600 mb-2">Ísis Amaral</h3>
-                <p class="text-gray-700">Professora da turma dos adultos</p>
+                <img src="<?php echo get_template_directory_uri(); ?>/assets/professor3.png" alt="Ísis Amaral professora da turma de adultos" class="mx-auto rounded-full mb-4 w-32 h-32 object-cover">
+                <h3 class="text-2xl font-semibold text-red-600 mb-2">Ísis Amaral</h3>
+                <p class="text-gray-700 text-lg">Professora da turma dos adultos</p>
             </div>
         </div>
     </div>
