@@ -19,7 +19,7 @@ get_header();
             Hoje, somos referência em ensino inovador, com professores dedicados e métodos que unem prática, cultura e tecnologia.
             Aqui, aprender inglês é mais do que estudar: é abrir portas para novas oportunidades.
         </p>
-        <a href="#formulario" class="bg-red-600 text-white px-8 py-3 rounded-xl text-lg md:text-xl shadow hover:bg-red-700 transition-colors duration-300 ease-in-out">
+        <a href="aula-experimental" class="bg-red-600 text-white px-8 py-3 rounded-xl text-lg md:text-xl shadow hover:bg-red-700 transition-colors duration-300 ease-in-out">
             Quero me inscrever
         </a>
     </div>

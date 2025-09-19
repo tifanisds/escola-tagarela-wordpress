@@ -29,7 +29,7 @@
                 <a href="#intercambio" class="hover:text-red-700 transition-colors duration-300 ease-in-out">Intercâmbio</a>
             </nav>
 
-            <a href="#formulario"
+            <a href="aula-experimental"
                 class="hidden md:inline-block bg-red-600 text-white px-4 py-2 rounded-xl shadow 
                   hover:bg-red-700 transition-colors duration-300 ease-in-out">
                 Aula Experimental
