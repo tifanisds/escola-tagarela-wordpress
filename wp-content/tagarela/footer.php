@@ -39,7 +39,7 @@
     <div class="border-t border-gray-700 mt-12 pt-6 text-center text-sm text-gray-300 px-6">
         © 2025 Escola Tagarela — Todos os direitos reservados.
         <span class="italic block mt-1">
-            Este é um site fictício, desenvolvido apenas para fins de estudo e demonstração.
+            Website desenvolvido como atividade avaliativa da disciplina Desenvolvimento de E-commerce com CMS do Centro Universitário UNIME de Lauro de Freitas.
         </span>
     </div>
 </footer>

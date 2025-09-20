@@ -25,8 +25,8 @@
 
             <nav class="hidden md:flex space-x-8 font-medium">
                 <a href="quem-somos" class="hover:text-red-700 transition-colors duration-300 ease-in-out">Quem Somos</a>
-                <a href="#educacao" class="hover:text-red-700 transition-colors duration-300 ease-in-out">Educação</a>
-                <a href="#intercambio" class="hover:text-red-700 transition-colors duration-300 ease-in-out">Intercâmbio</a>
+                <a href="/#educacao" class="hover:text-red-700 transition-colors duration-300 ease-in-out">Educação</a>
+                <a href="/intercambio" class="hover:text-red-700 transition-colors duration-300 ease-in-out">Intercâmbio</a>
             </nav>
 
             <a href="aula-experimental"
@@ -46,10 +46,10 @@
         <!-- Menu mobile -->
         <div id="mobile-menu" class="hidden md:hidden bg-white shadow-md">
             <nav class="flex flex-col space-y-2 p-4">
-                <a href="pagina-de-quem-somos" class="hover:text-red-700">Quem Somos</a>
-                <a href="#educacao" class="hover:text-red-700">Educação</a>
-                <a href="#intercambio" class="hover:text-red-700">Intercâmbio</a>
-                <a href="#formulario" class="bg-red-600 text-white px-4 py-2 rounded-xl shadow 
+                <a href="quem-somos" class="hover:text-red-700">Quem Somos</a>
+                <a href="/#educacao" class="hover:text-red-700">Educação</a>
+                <a href="/intercambio" class="hover:text-red-700">Intercâmbio</a>
+                <a href="aula-experimental" class="bg-red-600 text-white px-4 py-2 rounded-xl shadow 
                                    hover:bg-red-700 transition-colors duration-300 ease-in-out mt-2 text-center">
                     Aula Experimental
                 </a>
