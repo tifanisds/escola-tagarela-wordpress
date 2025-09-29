@@ -27,19 +27,24 @@ O site conta com as seguintes páginas principais:
 ## Prévia Visual  
 
 ### Hero (Desktop / Mobile)  
-![Hero Desktop](assets/preview/hero.png)  
-![Hero Mobile](assets/preview/hero-visao-mobile.png)  
+![Hero Desktop](./wp-content/tagarela/assets/preview/hero.png)  
+![Hero Mobile](./wp-content/tagarela/assets/preview/hero-visao-mobile.png)  
 
 ### Sessão Idades  
-![Sessão idades](assets/preview/idades-section.png)  
+![Sessão idades](./wp-content/tagarela/assets/preview/idades-section.png)  
 
 ### Localizações  
-![Sessão localizações](assets/preview/localizacao.png)  
-![Sessão localizações](assets/preview/localizacao-visao-mobile.png)  
+![Sessão localizações](./wp-content/tagarela/assets/preview/localizacao.png)  
 
-### Benefícios  
-![Beneficios](assets/preview/beneficios.png)  
-![Beneficios](assets/preview/beneficios-visao-mobile.png)  
+### Intercambio  
+![Intercambio](./wp-content/tagarela/assets/preview/intercambio.png) 
+
+### Aula experimental  
+![Aula experimental](./wp-content/tagarela/assets/preview/aula-experimental.png)  
+![Aula experimental](./wp-content/tagarela/assets/preview/aula-experimental-form.png)  
+
+### Quem somos
+![Quem somos](./wp-content/tagarela/assets/preview/quem-somos.png)  
 
 ---
 
